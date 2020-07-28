@@ -1,0 +1,7 @@
+{
+    "remote.SSH.remotePlatform": {
+        "pi": "linux"
+    },
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
